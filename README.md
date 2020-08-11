@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # TohtoriKuka
 <!-- Social Section -->
 <p align="center">
