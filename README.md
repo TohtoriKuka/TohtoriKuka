@@ -16,12 +16,16 @@
     <a href="https://www.youtube.com/channel/UCcn54FKBABuIK5_wKa-lLjA">
     <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
   </a>
-  <!-- <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf"> -->
+  <!-- Online cv> -->
     <img src="https://img.icons8.com/material-outlined/30/000000/parse-from-clipboard.png"/>
   </a>
   <a href="mailto:taro.turtiainen@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
+    <img src="https://img.icons8.com/material-outlined/24/000000/gmail.png"/>
   </a>
+  <a href="https://www.paypal.com/paypalme/TaroTurtiainen">
+    <img src="https://img.icons8.com/material-outlined/24/000000/paypal.png"/>
+  </a>
+
 </p>
 
 ---
